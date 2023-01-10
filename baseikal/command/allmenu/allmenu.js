@@ -1,0 +1,44 @@
+const allmenu =  ` 
+┏━━⊱
+┣❏sticker
+┣❏stickergif
+┣❏emojimix
+┣❏emojimix2
+┣❏attp
+┣❏ttp
+┣❏smeme
+┣❏toimage 
+┣❏tomp4
+┣❏tovn
+┣❏togif
+┣❏tourl 
+┣❏pinterest
+┣❏couple
+┣❏coffe
+┣❏kalkulator
+┣❏getname
+┣❏getpic
+┣❏infochat
+┣❏q
+┣❏listpc
+┣❏listgc
+┣❏listonline
+┣❏del
+┣❏linkgroup
+┣❏tagall
+┣❏hidetag
+┣❏style
+┣❏group
+┣❏editinfo
+┣❏setppbot
+┣❏setppgroup
+┣❏block
+┣❏unblock
+┣❏setname
+┣❏setdesc
+┣❏darkjoke
+┣❏meme
+┣❏meme2
+┣❏ss
+┗━━⊱[ ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚]`
+exports.allmenu = allmenu
